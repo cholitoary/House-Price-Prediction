@@ -1,13 +1,11 @@
 # House Price Prediction on Kaggle Competition
-## [Exploratory Data Analysis](Exploratory Data Analysis in House Prices)
+1. Exploratory Data Analysis
+2. Data Processing
+3. House Price Prediction Model
 
-## [Data Processing](Data Processing in House Price)
+Random Forest
+XGBoost (XGB)
+LightGBM
+Neural Networks
 
-## [House Price Prediction Model](Modeling in House Price)
-
-*Random Forest
-*XGBoost (XGB)
-*LightGBM
-*Neural Networks
-
-## [Result](submission_csv)
+[Result](submission_csv)
