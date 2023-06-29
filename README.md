@@ -1,9 +1,9 @@
-<title>House Price Prediction on Kaggle Competition</title>
+#House Price Prediction on Kaggle Competition
 
-# Project Summary
+## Project Summary
 House Price Prediction is an analytical model based on the House-Price dataset in the Kaggle competition. This project involves creating a machine learning model that aims to predict house prices based on the features provided in the dataset. The goal is to accurately predict the prices of houses using the given features.
 
-# 
+## 
 1. [Exploratory Data Analysis](https://github.com/cholitoary/House-Price-Prediction/blob/main/Exploratory%20Data%20Analysis%20in%20House%20Prices.ipynb)
    - Descriptive Statistics
    - Correlation Analysis
